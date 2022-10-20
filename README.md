@@ -1,7 +1,7 @@
 # Deribit-API
 
 ### Description
-- Colect market data from Deribit's API
+- Collect market data from Deribit's API
 
 ### Model Type
 - Python
@@ -10,7 +10,7 @@
 
 # Instructions:
 - Add your private API Key to the field described 
-- Select Market and timeframes 
+- Select Market and time frames 
 
 ### Goals:
 - To connect to Deribit's API and make buy and sell operations on the platform
